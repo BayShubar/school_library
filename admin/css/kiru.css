@@ -1,0 +1,51 @@
+body{
+   background: url(/library/www/admin/images/phon.JPG)no-repeat;
+   background-color: #092229;
+}
+#block-pass-login {
+    width: 285px;
+    height: auto;
+    border: 1px solid #051316;
+    background-color:#315965;
+    margin: 100px auto;
+}
+#pass-login li{
+    margin-top: 10px;
+    list-style: none;
+}
+#pass-login label{
+  font:15px sans-serif;
+  color: white;
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 4px;
+}
+#pass-login input{
+width:200px;
+height: 24px;
+margin-left:75px;
+border: 1px solid #06181C;
+font: 17px sans-serif;
+
+}
+#submit_enter {
+    border:1px solid #051316;
+    background-color: #456B78;
+    font: 15px sans-serif;
+    padding: 4px 6px;
+    cursor:pointer;
+}
+#submit_enter:hover {
+    background-color: #092229;
+}
+
+#msgerror{
+    font: 14px sans-serif;
+    color: red;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #FDE5E0;
+    border: 1px solid #FDCDC3;
+    margin-top: 0;
+}

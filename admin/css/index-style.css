@@ -1,0 +1,148 @@
+body{
+    background-color: #CFFF8C;
+}
+
+#body{
+   width: 950px;
+   margin:5px auto; 
+   background-color: white;
+   border-bottom: 1px solid #CFFF8C;
+   height:auto;
+
+}
+#basi {
+    width: 950px;
+    height: 80px;
+    border: 3px solid #CFFF8C;
+}
+#basi1{
+    width: 300px;
+    float: left;
+}
+#basi1 h3{
+    font: 20px sans-serif;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+#basi1 a{
+   font: 15px sans-serif;
+   color:black;
+}
+
+
+
+
+#basi2{
+    width: 300px;
+    float: right;
+}
+#basi2 p{
+    margin-top: 10px;
+    margin-right: 10px;
+    font: 15px sans-serif;
+}
+#basi2 a{
+    font: 15px sans-serif;
+    text-decoration: none;
+    color: #3A4727;
+}
+#basi2 a:hover{
+    text-decoration: underline;
+}
+#basi2 span{
+    border-bottom: 1px dashed #3A4727;
+}
+#left-nav{
+    width: 200px;
+    height: auto;
+    min-height: 200px;
+    margin-left: -40px;
+    position: absolute;
+}
+#left-nav ul{
+   margin-top: 10px;
+}
+#left-nav li{
+   margin-left: 15px;
+   padding-top: 5px;
+   list-style: none;
+   padding-bottom: 5px;
+   border-bottom: 2px solid #C4E347;
+}
+#left-nav a{
+   font: 15px sans-serif;
+   text-decoration: none;
+   color: black;
+}
+#left-nav a:hover{
+   text-decoration: underline;
+}
+#block-content{
+    width: 747px;
+    min-height: 650px;
+    height: auto;
+    margin-left: 201px;
+    border-left: 2px solid #CFFF8C;
+}
+#block-parameters{
+    height: 40px;
+    border-bottom: 1px solid #E0E0E0;
+    background-color: #C4E347
+}
+#title-page{
+    font: 20px sans-serif;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: absolute;
+}
+#block-info{
+    height: 40px;
+    border-bottom: 1px solid #E0E0E0;
+}
+#count-style{
+    margin-top: 12px;
+    font: 14px sans-serif;
+    margin-left: 10px;
+    position: absolute;
+}
+#block-tovar{
+    margin-top: 10px;
+}
+#block-tovar li{
+    height: 260px;
+    width: 230px;
+    float: left;
+    margin-left: 10px;
+}
+
+#block-tovar p{
+    margin-top: 10px;
+    font: 15px sans-serif;
+    text-align: center;
+}
+.delete{
+    font:bold 13px sans-serif;
+    color: #D6533C;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.green{
+    font:bold 13px sans-serif;
+    color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
